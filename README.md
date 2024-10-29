@@ -1,5 +1,5 @@
 # K-NN-Enhancement
-Assignment of the course Machine Learning I (2nd year, 2nd semester)
+Assignment of the course Machine Learning I (BSc in Artificial Intelligence and Data Science 2nd year, 2nd semester)
 
 ## A little context
 ### Goal of the work
